@@ -1,2 +1,2 @@
 # IdeasApp
-This is the IdeasApp, where users can create their own Ideas.
+This is the simple IdeasApp, where users can create and store their own Ideas.
